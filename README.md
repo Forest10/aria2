@@ -11,4 +11,4 @@ aria2超高速下载
 
 ## 2.本地gui监视
 
-下载
+下载https://github.com/Forest10/aria2/tree/master/gui/mac
