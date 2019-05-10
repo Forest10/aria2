@@ -9,8 +9,9 @@ aria2超高速下载
 
 ## 2.安装BaiduExporter.crx(https://github.com/Forest10/aria2/tree/master/crx)
 
-
-
+* 1.  ![第一步](http://public-img.forest10.com/aria2/baiduexporter1.png)
+* 2.  ![第二步](http://public-img.forest10.com/aria2/baidue2.png)
+* 3.  ![第三步.设置server.点击测试](http://public-img.forest10.com/aria2/baiduexpoter3.jpg)
 ## 3.本地gui监视
 
 下载https://github.com/Forest10/aria2/tree/master/gui/mac
