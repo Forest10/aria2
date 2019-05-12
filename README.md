@@ -12,6 +12,6 @@ aria2超高速下载百度云文件
 * 1.  ![第一步](http://public-img.forest10.com/aria2/baiduexporter1.png)
 * 2.  ![第二步](http://public-img.forest10.com/aria2/baidue2.png)
 * 3.   设置server.点击测试 ![第三步](http://public-img.forest10.com/aria2/baiduexpoter3.jpg)
-## 3.本地gui监视(windows的暂无找到)
+## 3.本地gui监视(windows的(https://github.com/aria2/aria2/releases))
 
-下载https://github.com/Forest10/aria2/tree/master/gui/mac
+下载https://github.com/Forest10/aria2/tree/master/gui
